@@ -62,6 +62,6 @@
 // }
 
 // Console.Write("Введите число, до которого нужна таблица кубов: ");
-// int number = Convert.ToInt32(Console.ReadLine());
+// int N = Convert.ToInt32(Console.ReadLine());
 
-// TableOfCubes(number);
+// TableOfCubes(N);
